@@ -1,7 +1,7 @@
 # miam-time-android
 Link to https://github.com/Shimikado/miam-time-back
 
-Le principe serait d'afficher de manieres aléatoire des recettes crées par la communautés. 
+Le principe serait d'afficher de manieres aléatoire des recettes crées par la communauté. 
 
 Celle-ci pourront comporter des tags permettant de faire des recherches par thème.
 
