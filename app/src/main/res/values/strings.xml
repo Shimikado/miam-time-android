@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiamTime</string>
+    <string name="tab_text_1">Search</string>
+    <string name="tab_text_2">Create</string>
+    <string name="tab_text_3">Recipes</string>
+    <string name="action_settings">Profile</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="good">Miam</string>
+    <string name="bad">Erf</string>
+</resources>
